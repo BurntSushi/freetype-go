@@ -15,7 +15,7 @@ import (
 	"log"
 	"os"
 
-	"code.google.com/p/freetype-go/freetype/raster"
+	"github.com/BurntSushi/freetype-go/freetype/raster"
 )
 
 type node struct {
